@@ -1,4 +1,4 @@
-Hello👋 I am Andreas, a <b>research associate</b> at CYENS - Center of Excellence (V-EUPNEA: Living, Breathing Virtual World).
+Hello👋 I am Andreas, a <b>research associate</b> at <a href="https://www.cyens.org.cy/en-gb/" target="_blank">CYENS - Center of Excellence</a> (V-EUPNEA: Living, Breathing Virtual World).
 My interests include, but not limited to, Crowd Simulation, Machine Learning, Virtual Environments, Computer Animation and Computer Games Technologies.
 
 <!--
